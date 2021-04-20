@@ -10,7 +10,7 @@ Or ping me an email [georgekeesjones@gmail.com](mailto:georgekeesjones@gmail.com
 
 I've got the below AWS Certs and I plan to study for and complete all Associate and Professional Certs.
 <p float="left">
-<img src="https://images.youracclaim.com/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="75"/>
-<img src="https://images.youracclaim.com/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="75"/>
-<img src="https://www.credly.com/badges/34d49a2f-6e05-4af6-8e57-24c174bcf57b/public_url" width="75"/>
+    <img src="https://images.youracclaim.com/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="75"/>
+    <img src="https://images.youracclaim.com/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="75"/>
+    <img src="https://images.credly.com/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="75"/>
 </p>
