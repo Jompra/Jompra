@@ -2,7 +2,7 @@
 
 I'm currently a Site Reliability Engineer with the incredible team at Dunelm.
 
-I'm currently learning AWS for work, and Golang for me.
+I'm currently learning AWS for work, and C# for me.
 
 Take a look at my personal website [georgekeesjones.com](https://georgekeesjones.com) Although it's probably a bit out of date.
 
