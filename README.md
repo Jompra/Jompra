@@ -1,8 +1,8 @@
-### Hi, I'm George. A Junior Full Stack developer in London, UK
+### Hi, I'm George. A Site Reliability Engineer in London, UK
 
-I'm currently a Site Reliability Engineer with the incredible team at Utility Warehouse.
+I'm currently working with the incredible team at Utility Warehouse.
 
-I'm currently learning the exciting world of Kubernetes.
+At the moment I'm learning all about the exciting world of Kubernetes.
 
 Take a look at my personal website [georgekeesjones.com](https://georgekeesjones.com) Although it's probably a bit out of date.
 
