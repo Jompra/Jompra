@@ -7,6 +7,9 @@ I'm also on LinkedIn [@georgekjones](https://www.linkedin.com/in/georgekjones/)
 I've got the below AWS Certs and when I get the time I'll get the Professional Certs too.
 
 AWS Cloud Practitioner
+
 AWS Solutions Architect Associate
+
 AWS Developer Associate
+
 AWS SysOps Administrator Associate
